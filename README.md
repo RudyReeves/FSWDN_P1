@@ -1,4 +1,8 @@
 # FSWDN_P1
-Creates a class called Movie, generates a list of Movie instances, and displays them in the browser.
+Creates a Movie class, and can display a list of them in a browser.
 
-Run 'python entertainment_center.py' in the directory containing this file to execute it.
+#Install
+Install python and download FSWDN_P1
+
+#Examples
+python entertainment_center.py

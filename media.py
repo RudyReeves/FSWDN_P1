@@ -1,12 +1,14 @@
 import webbrowser
 
-# Represents a movie with a title, release year, storyline, poster image, and trailer URL
+# Represents a movie with a title, year, storyline, poster and trailer URL
 class Movie():
-    def __init__(self, movie_title,
+    def __init__(self,
+                 movie_title,
                  release_year,
                  storyline,
                  poster_image_url,
                  trailer_youtube_url):
+
         self.title = movie_title
         self.release_year = release_year
         self.storyline = storyline
