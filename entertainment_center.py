@@ -2,7 +2,7 @@ import fresh_tomatoes
 import media
 
 # Create a Movie instance for toy_story, from the media module
-toy_story = media.Movie("Toy Story",1995,
+toy_story = media.Movie("Toy Story", 1995,
                         "A story of a boy and his toys that come to life",
                         "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Toy_Story.jpg/220px-Toy_Story.jpg",
                         "https://www.youtube.com/watch?v=KYz2wyBy3kc")
