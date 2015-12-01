@@ -5,5 +5,6 @@ Creates a Movie class, and can display a list of movies in a browser.
 Install python and download FSWDN_P1
 
 #Usages
-Generate your own fresh_tomatoes.html file to using the command:
+Generate your own fresh_tomatoes.html file using the command:
+
 $python entertainment_center.py
