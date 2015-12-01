@@ -8,9 +8,7 @@ toy_story = media.Movie("Toy Story",1995,
                         "https://www.youtube.com/watch?v=KYz2wyBy3kc")
 
 # Create another Movie instance for the_matrix
-the_matrix = media.Movie(
-            "The Matrix",
-            1999,
+the_matrix = media.Movie("The Matrix", 1999,
             "Neo discovers he is living in a computer simulation",
             "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Matrix_Poster.jpg/220px-The_Matrix_Poster.jpg",
             "https://www.youtube.com/watch?v=vKQi3bBA1y8")
