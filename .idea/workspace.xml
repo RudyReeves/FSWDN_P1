@@ -40,8 +40,8 @@
       <file leaf-file-name="media.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/media.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21226415">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.094339624">
+              <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -556,7 +556,13 @@
       <option name="project" value="LOCAL" />
       <updated>1448993860964</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Deleted whitespace in Movie constructor">
+      <created>1448994137116</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1448994137116</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -596,7 +602,8 @@
     <MESSAGE value="Added one space" />
     <MESSAGE value="Altered whitespace" />
     <MESSAGE value="Further adjusts README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Further adjusts README" />
+    <MESSAGE value="Deleted whitespace in Movie constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted whitespace in Movie constructor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -626,8 +633,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/media.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21226415">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.094339624">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
           <folding />
         </state>
       </provider>
