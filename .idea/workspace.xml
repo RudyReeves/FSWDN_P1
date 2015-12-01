@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f5c3836d-1ddb-4bd1-ad33-54a83a8952c3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="FSWDN_P1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -634,7 +633,13 @@
       <option name="project" value="LOCAL" />
       <updated>1449003993186</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Updated README">
+      <created>1449004817564</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1449004817564</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -678,7 +683,8 @@
     <MESSAGE value="Fixed whitespace in Movies constructor" />
     <MESSAGE value="Added #NOQA to fix long URL strings" />
     <MESSAGE value="Updated README text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated README text" />
+    <MESSAGE value="Updated README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated README" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
