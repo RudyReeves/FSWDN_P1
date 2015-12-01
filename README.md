@@ -5,4 +5,4 @@ Creates a Movie class, and can display a list of movies in a browser.
 Install python and download FSWDN_P1
 
 #Usages
-python entertainment_center.py
+$python entertainment_center.py

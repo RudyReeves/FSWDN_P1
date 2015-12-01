@@ -40,8 +40,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.17298187">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -557,7 +557,13 @@
       <option name="project" value="LOCAL" />
       <updated>1448992799331</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Further adjusts README">
+      <created>1448993780011</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1448993780011</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -596,7 +602,8 @@
     <MESSAGE value="Updates to READEME" />
     <MESSAGE value="Added one space" />
     <MESSAGE value="Altered whitespace" />
-    <option name="LAST_COMMIT_MESSAGE" value="Altered whitespace" />
+    <MESSAGE value="Further adjusts README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Further adjusts README" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -623,8 +630,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.17298187">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
