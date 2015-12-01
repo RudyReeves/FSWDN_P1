@@ -28,8 +28,8 @@
       <file leaf-file-name="entertainment_center.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/entertainment_center.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4481132">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.14150943">
+              <caret line="6" column="101" selection-start-line="6" selection-start-column="101" selection-end-line="6" selection-end-column="101" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -532,7 +532,13 @@
       <option name="project" value="LOCAL" />
       <updated>1448992444212</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added one space">
+      <created>1448992713409</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1448992713409</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -569,7 +575,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updates to READEME and PEP8 compliance" />
     <MESSAGE value="Updates to READEME" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates to READEME" />
+    <MESSAGE value="Added one space" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added one space" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -597,8 +604,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/entertainment_center.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4481132">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.14150943">
+          <caret line="6" column="101" selection-start-line="6" selection-start-column="101" selection-end-line="6" selection-end-column="101" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>

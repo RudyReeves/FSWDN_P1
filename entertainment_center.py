@@ -3,9 +3,9 @@ import media
 
 # Create a Movie instance for toy_story, from the media module
 toy_story = media.Movie("Toy Story", 1995,
-                        "A story of a boy and his toys that come to life",
-                        "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Toy_Story.jpg/220px-Toy_Story.jpg",
-                        "https://www.youtube.com/watch?v=KYz2wyBy3kc")
+            "A story of a boy and his toys that come to life",
+            "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Toy_Story.jpg/220px-Toy_Story.jpg",
+            "https://www.youtube.com/watch?v=KYz2wyBy3kc")
 
 # Create another Movie instance for the_matrix
 the_matrix = media.Movie("The Matrix", 1999,
